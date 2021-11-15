@@ -1,5 +1,6 @@
 # Specialization Certificates
 Over the past years , I have gained specializations in the following fields:
+<hr/>
 Python:https://www.coursera.org/account/accomplishments/specialization/certificate/5ULTV2XV8YL3
 <hr/>
 Tableau:https://www.coursera.org/account/accomplishments/specialization/certificate/EFBVPR7ANFZA
